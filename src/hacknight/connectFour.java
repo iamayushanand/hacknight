@@ -43,7 +43,7 @@ import java.util.Scanner;
  *
  *    #identical to part two
  *
- * iterate through each of the diagonals.
+ * iterate through each of the diagonals maintaining a count .
  *
  *
  *

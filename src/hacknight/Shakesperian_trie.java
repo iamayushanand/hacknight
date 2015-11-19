@@ -11,7 +11,7 @@ import java.util.Arrays;
 import java.util.Scanner;
 
 /**
- * Created by mYPC on 17/11/2015.
+ * Created by Ayush on 17/11/2015.
  */
 
 class Trie_node
